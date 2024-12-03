@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandeyman&label=Profile%20views&color=0e75b6&style=flat" alt="mandeyman" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-green-pi-25.vercel.app/](https://portfolio-green-pi-25.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prakash-prajapati.vercel.app/](https://prakash-prajapati.vercel.app/)
 
 - 📫 How to reach me **prakashdevandtech@gmail.com**
 
