@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-green-pi-25.vercel.app/](https://portfolio-green-pi-25.vercel.app/)
 
-- 📫 How to reach me **pprajapatiindia0@gmail.com**
+- 📫 How to reach me **prakashdevandtech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
